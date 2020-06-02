@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952247515165",
+    "firebase_url": "https://planets-aca19.firebaseio.com",
+    "project_id": "planets-aca19",
+    "storage_bucket": "planets-aca19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952247515165:android:7dd1f78d84052c81096ef4",
+        "android_client_info": {
+          "package_name": "mx.melendez.planet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952247515165-h9ci1d9blm1ielga85fulg3dlvi542v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJVomdIRCGDHeYRbVbCvmJG_A-jE1ncg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952247515165-h9ci1d9blm1ielga85fulg3dlvi542v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
